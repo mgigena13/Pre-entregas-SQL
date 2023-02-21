@@ -40,9 +40,11 @@ nombre varchar (50) NOT NULL);
 
 CREATE TABLE materias(
 materiaID INT NOT NULL PRIMARY KEY,
+carreraID INT NOT NULL,
 nombre varchar (50) NOT NULL,
 anio_cursado INT NOT NULL,
 tipo_duracion SET ('anual', 'primer semestre', 'segundo semestre') NOT NULL,
+foreign key (carreraID) REFERENCES carreras (carreraID),
 foreign key (anio_cursado) REFERENCES anio_cursado(anio_cursado));
 
 CREATE TABLE inscripciones(
