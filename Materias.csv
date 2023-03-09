@@ -1,0 +1,472 @@
+carreraID,nombre,anio_cursado,tipo_duracion
+2,Historia de la Psicologia,1,primer semestre
+2,Biologia General y Humana,1,primer semestre
+2,Psicologia General,1,primer semestre
+2,Informatica Aplicada,1,primer semestre
+2,Ingles I,1,primer semestre
+2,Perspetivas Antropologicas,1,primer semestre
+2,Corrientes Actuales en Psicologia,1,segundo semestre
+2,Neutobiologia I,1,segundo semestre
+2,Sociologia Enfoque en Redes,1,segundo semestre
+2,Fundamentos del Pensamiento Cientifico y Epistemologia,1,segundo semestre
+2,Ingles II,1,segundo semestre
+2,Psicologia y Problematica Socio-Cultural Actual.,1,segundo semestre
+2,Psicologia Social,2,primer semestre
+2,Neutobiologia II,2,primer semestre
+2,Psicologia del Desarrollo I (infancia-adolecencia),2,primer semestre
+2,Psicologia de la Personalidad,2,primer semestre
+2,Problemas Filosoficos en Psicologia,2,primer semestre
+2,Psicoestadistica,2,segundo semestre
+2,Psicologia del Desarrollo II (adultez-senectud),2,segundo semestre
+2,"Etica, Deontologia y Legislacion Profesional",2,segundo semestre
+2,Psicopatologia I,2,segundo semestre
+2,Integracion Practica I,2,segundo semestre
+2,Optativa I - Perspectivas de Investigacion en Psicologia,2,primer semestre
+2,Optativa I - Psicologia del Deposte y la Actividad Fisica,2,primer semestre
+2,Optativa II - Consumo Problematico del Alcohol y Otras Drogas,2,segundo semestre
+2,Optativa II - Problematica Psico-Social de Niños y Adolecentes en Conflicto con la Ley Penal,2,segundo semestre
+2,Psicologia Humanistica y Existencial,3,primer semestre
+2,Metodos de Investigacion I,3,primer semestre
+2,Psicologia Sistemico Comunicacional,3,segundo semestre
+2,Psicologia Cognitivo Conductual,3,primer semestre
+2,Metodos de Investigacion II,3,segundo semestre
+2,Psicopatologia II,3,segundo semestre
+2,Teoria Psicoanalitica,3,segundo semestre
+2,Integracion Practica II,3,segundo semestre
+2,Salud Mental Comunitaria,3,segundo semestre
+2,Optativo III - Prevencion y Promocion de Salud en la Tercera Edad,3,primer semestre
+2,Optatitiva III - Teoria y Procedimientos de Intervencion Grupal,3,primer semestre
+2,Optativa IV - Gestion Colaborativa de Conflictos,3,segundo semestre
+2,Optativa IV - Abordaje Psicologico de las Personas con Discapacidad,3,segundo semestre
+2,Psicologia de las Organizaciones,4,primer semestre
+2,Evaluacion y Diagnostico Psicologico I,4,primer semestre
+2,Intervencion y Tratamiento Psicologico Psicoanalitico,4,primer semestre
+2,Intervencion y Tratamiento Psicologico Cognitivo Conductual,4,primer semestre
+2,Psicologia Educacional,4,primer semestre
+2,Orientacion y Terapia Familiar,4,primer semestre
+2,Evaluacion y Diagnostico Psicologico II,4,segundo semestre
+2,Intervencion y Tratamiento Psicologico Humanistico-Existencial,4,segundo semestre
+2,Intervencion y Tratamiento Psicologico Sistemico-Comunicacional,4,segundo semestre
+2,Integracion Practica III,4,segundo semestre
+2,Psicofarmacologia,4,segundo semestre
+2,PPS-Salud Mental Comunitaria,4,primer semestre
+2,PPS-Psicologia Organizacional,4,segundo semestre
+2,PPS-Psicologia Eduacional,4,segundo semestre
+2,Abordaje Integrado del Paciente Cronico,5,primer semestre
+2,Psicologia Juridico Forense,5,primer semestre
+2,Principios de Intervencion Clinica,5,anual
+2,Seminario Trabajo Integrador Final-TIF,5,anual
+2,PPS-Clinica Psicoanalitica-Psicodinamica,5,anual
+2,PPS-Clinico Humanistico Existencial,5,anual
+2,PPS-Clinica Cognitivo Conductual,5,anual
+2,PPS-Clinica Sistemico Comunicacional,5,anual
+2,PPS-Orientacion Juridico Forense,5,segundo semestre
+1,Anatomia,1,anual
+1,Fisiologia,1,anual
+1,Histologia,1,anual
+1,Fisica Biologica,1,anual
+1,Psicologia Medica,1,segundo semestre
+1,Ingles I,1,primer semestre
+1,Seminario I (Bioquimica),1,anual
+1,Biomecanica,2,anual
+1,Tecnicas Kinesicas I,2,anual
+1,Semiopatologia Medico Kinesica,2,anual
+1,Kinefilaxia,2,anual
+1,Ingles II (promocional),2,segundo semestre
+1,ortesis y Protesis,2,primer semestre
+1,Psicomotricidad,2,anual
+1,Seminario II (Diagnostico por Imagen) (promocional),2,anual
+1,Tecnicas Kinesicas II,3,anual
+1,Semiopatologia Quirurgico Kinesica,3,anual
+1,Kinesiologia Medica,3,anual
+1,Fisioterapia,3,anual
+1,Ingles III (promocional),3,primer semestre
+1,Kinefisiatria Estetica,3,segundo semestre
+1,Bioinformatica y Rehabilitacion Computacional,3,anual
+1,Seminario III (Neurologia - PPS Practica Profesional Supervisada),3,anual
+1,Kinesiologia Quirurgica,4,anual
+1,Kinesiologia Legal,4,primer semestre
+1,Deportismo,4,anual
+1,Ingles IV,4,segundo semestre
+1,Farmacologia Electrofisiokinesica,4,anual
+1,Organizacion Hospitalaria Institucional y Centros de Rehabilitacion,4,anual
+1,Kinefisiatria Ocupacional y Laboral,4,anual
+1,Metodologia de la Investigacion,4,anual
+1,Seminario IV (PPS Practica Profesional Supervisada),4,anual
+3,Fisico-Quimica,1,primer semestre
+3,Bioquimica,1,segundo semestre
+3,Anatomia I,1,primer semestre
+3,Anatomia II,1,segundo semestre
+3,Fundamentos de Alimentacion I,1,primer semestre
+3,Fundamentos de Alimentacion II,1,segundo semestre
+3,Nutricion Normal I,1,segundo semestre
+3,Saneamiento Ambiental,1,primer semestre
+3,Informatica I,1,segundo semestre
+3,Ingles I,1,primer semestre
+3,Antropologia Social,2,segundo semestre
+3,Fisiologia I,2,primer semestre
+3,Fisiologia II,2,segundo semestre
+3,Bromatologia,2,primer semestre
+3,Tecnologia Alimentaria,2,segundo semestre
+3,Microbiologia y Parasitologia,2,segundo semestre
+3,Ingles II,2,primer semestre
+3,Informatica II,2,primer semestre
+3,Estadistica y Bioestadistica,2,segundo semestre
+3,Nutricion Normal II,2,primer semestre
+3,Nutricion Materno Infantil,2,segundo semestre
+3,Fisiopatologia y Dietoterapia del Niño I,3,primer semestre
+3,Fisiopatologia y Dietoterapia del Adulto I,3,primer semestre
+3,Fisiopatologia y Dietoterapia del Niño II,3,segundo semestre
+3,Fisiopatologia y Dietoterapia del Adulto II,3,segundo semestre
+3,Tecnica Dietetica y Analisis Sensorial,3,primer semestre
+3,Tecnica Dietoterapica,3,segundo semestre
+3,Evaluacion Nutricional I,3,segundo semestre
+3,Economia Familia,3,segundo semestre
+3,Psicologia,3,primer semestre
+3,Evaluacion Nutricional II,4,primer semestre
+3,Educacion Alimentaria Nutricional,4,segundo semestre
+3,Nutricion en Salud Publica,4,primer semestre
+3,Epidemiologia Nutricional,4,segundo semestre
+3,Normas de Calidad y Formulaion de Alimentos,4,primer semestre
+3,Planificacion y Alimentacion Institucional,4,segundo semestre
+3,Gestion Alimentaria,4,segundo semestre
+3,Fisiologia de Deporte,4,primer semestre
+3,Metodologia de la Investigacion,4,segundo semestre
+3,Informatica III,4,primer semestre
+3,Comunicacion Nutricional,5,segundo semestre
+3,Toxicologia de los Alimentos,5,segundo semestre
+3,Nutricion Deportiva,5,primer semestre
+3,Nutricion en Geriatria,5,primer semestre
+3,Etica y Bioetica,5,primer semestre
+3,Practica Final Obligatoria,5,anual
+3,Trabajo Final,5,anual
+3,Optativa I,5,primer semestre
+3,Optativa II,5,primer semestre
+4,Anatomia,1,primer semestre
+4,Histologia y Embriologia,1,primer semestre
+4,Fisica Biologica,1,primer semestre
+4,Psicologia de la Personalidad y Evolutiva,1,primer semestre
+4,Fundamentos de Administracion,1,primer semestre
+4,Fisiologia,1,segundo semestre
+4,Quimica Biologica,1,segundo semestre
+4,Etica Profesional,1,segundo semestre
+4,Fundamentos de Radiologia,1,segundo semestre
+4,Microbiologia y Epidemiologia,1,anual
+4,Tecnicas Sanitarias,1,anual
+4,Psicologia Aplicada,2,primer semestre
+4,Patologia Medica,2,segundo semestre
+4,Farmacologia,2,anual
+4,Tecnicas Radiologicas I,2,anual
+4,Fisica Radiologica,2,anual
+4,Patologia Quirurgica,2,anual
+4,Ingles,2,anual
+4,Computacion I,2,anual
+4,Tecnica Radiologica II,3,primer semestre
+4,Ingles Tecnico,3,primer semestre
+4,Computacion II,3,primer semestre
+5,Anatomia,1,primer semestre
+5,Histologia y Embriologia,1,primer semestre
+5,Fisica Biologica,1,primer semestre
+5,Psicologia de la Personalidad y Evolutiva,1,primer semestre
+5,Fundamentos de Administracion,1,primer semestre
+5,Fisiologia,1,segundo semestre
+5,Quimica Biologica,1,segundo semestre
+5,Etica Profesional,1,segundo semestre
+5,Fundamentos de Quirofano,1,segundo semestre
+5,Microbiologia y Epidemiologia,1,anual
+5,Tecnicas Sanitarias,1,anual
+5,Psicologia Aplicada,2,primer semestre
+5,Patologia Medica,2,segundo semestre
+5,Farmacologia,2,anual
+5,Tecnicas Quirurgica I,2,anual
+5,Patologia Quirurgica,2,anual
+5,Ingles,2,anual
+5,Tecnica Quirurgica II,3,primer semestre
+5,Ingles Tecnico,3,primer semestre
+6,Filosofia,1,primer semestre
+6,Seguridad I,1,primer semestre
+6,Medicina Industrial,1,primer semestre
+6,Fisica General,1,primer semestre
+6,Sociologia,1,primer semestre
+6,Psicologia Laboral,1,segundo semestre
+6,Ambiente de Trabajo I,1,segundo semestre
+6,Seguridad II,1,segundo semestre
+6,Quimica Tecnologica,1,segundo semestre
+6,Organizacion Industrial,2,primer semestre
+6,Relaciones Humanas,2,primer semestre
+6,Seguridad III,2,primer semestre
+6,Higiene Industrial,2,primer semestre
+6,Enfermedades Profesionales,2,segundo semestre
+6,Ambiente de Trabajo II,2,segundo semestre
+6,Pedagogia y Didactica General,2,segundo semestre
+6,Investigacion de Campo,2,segundo semestre
+6,Estudio del Trabajo,3,primer semestre
+6,Ergonomia,3,primer semestre
+6,Ambiente de Trabajo III,3,primer semestre
+6,Seguridad IV,3,primer semestre
+6,Seleccion y Capacitacion del Personal,3,segundo semestre
+6,Derecho del Trabajo,3,segundo semestre
+6,Estadistica y Costo,3,segundo semestre
+6,Seguridad Vial,3,segundo semestre
+6,Etica y Responsabilidad Social Empresaria,3,segundo semestre
+7,Arquitectura I,1,anual
+7,Sistemas de Representacion,1,anual
+7,Dibujo y Expresion,1,anual
+7,Cultura Arquitectonica,1,anual
+7,Construcciones I,1,anual
+7,Estructuras I,1,anual
+7,Matematicas,1,anual
+7,Arquitectura II,2,anual
+7,Ambiente I,2,anual
+7,Teoria de la Arquitectura y el Urbanismo I,2,anual
+7,Historia de la Arquitectura y el Urbanismo I,2,anual
+7,Construcciones II,2,anual
+7,Estructuras II,2,anual
+7,Arquitectura III,3,anual
+7,AMBIENTE III,3,anual
+7,Teoria de la Arquitectura y el Urbanismo II,3,anual
+7,Historia de la Arquitectura y el Urbanismo II,3,anual
+7,Construcciones III,3,anual
+7,Estructuras III,3,anual
+7,Diseño Asistido por computadora,3,anual
+7,Ingles (optativa),3,anual
+7,Frances (optativa),3,anual
+7,Arquitectura IV,4,anual
+7,Ambiente III,4,anual
+7,Teoria de la Arquitectura y el Urbanismo III,4,anual
+7,Historia de la Arquitectura y el Urbanismo III,4,anual
+7,Construcciones IV,4,anual
+7,Estructuras IV,4,anual
+7,Arquitectura V,5,primer semestre
+7,Practica Profesional Asistida,5,anual
+7,Urbanismo,5,primer semestre
+7,"Organización, Administracion y Legislacion",5,primer semestre
+7,Proyectos Inmobiliarios,5,primer semestre
+7,Diseño (optativa),5,segundo semestre
+7,Marketing Para Arquitectos,5,segundo semestre
+7,Diseño Urbano,5,segundo semestre
+7,Proyecto Final,5,primer semestre
+8,Taller de introduccion al diseño 1,1,primer semestre
+8,Cultura del dsieño 1,1,primer semestre
+8,Dibujo y Expresion Visual 1,1,primer semestre
+8,Informatica 1,1,primer semestre
+8,Taller de introduccion al diseño 2,1,segundo semestre
+8,Cultura del dsieño 2,1,segundo semestre
+8,Dibujo y Expresion Visual 2,1,segundo semestre
+8,Informatica 2,1,segundo semestre
+8,Taller de Diseño integral 1,2,primer semestre
+8,Creatividad en el diseño,2,primer semestre
+8,Psicologia,2,primer semestre
+8,Materializacion 1,2,primer semestre
+8,Taller de Diseño integral 2,2,segundo semestre
+8,Actuacion Profesional,2,segundo semestre
+8,Diseño Regional,2,segundo semestre
+8,Materializacion 2,2,segundo semestre
+8,Taller de diseño Especial 1,3,primer semestre
+8,Actuacion Empresarial,3,primer semestre
+8,Opcional Especifica 1,3,primer semestre
+8,Semiologia,3,primer semestre
+8,Introduccion a la Investigacion,3,primer semestre
+8,Taller de Diseño Especial 2,3,segundo semestre
+8,Practica Profesional,3,segundo semestre
+8,Opcional Especifica 2,3,segundo semestre
+8,Presentacion Final,3,segundo semestre
+8,Taller de diseño estrategico,4,primer semestre
+8,Ergonomia,4,primer semestre
+8,Opcional Integral 1,4,primer semestre
+8,Teoria General del Diseño,4,primer semestre
+8,Estetica de los medios,4,primer semestre
+8,Metodologia del diseño,4,segundo semestre
+8,Marketing Empresario,4,segundo semestre
+8,Opcional Integral 2,4,segundo semestre
+8,Opcional Especifica 3,4,segundo semestre
+8,Trabajo Final,4,segundo semestre
+9,Taller de introduccion al diseño 1,1,primer semestre
+9,Cultura del dsieño 1,1,primer semestre
+9,Dibujo y Expresion Visual 1,1,primer semestre
+9,Informatica 1,1,primer semestre
+9,Taller de introduccion al diseño 2,1,segundo semestre
+9,Cultura del dsieño 2,1,segundo semestre
+9,Dibujo y Expresion Visual 2,1,segundo semestre
+9,Informatica 2,1,segundo semestre
+9,Taller de Diseño integral 1,2,primer semestre
+9,Creatividad en el diseño,2,primer semestre
+9,Psicologia,2,primer semestre
+9,Materializacion 1,2,primer semestre
+9,Taller de Diseño integral 2,2,segundo semestre
+9,Actuacion Profesional,2,segundo semestre
+9,Diseño Regional,2,segundo semestre
+9,Materializacion 2,2,segundo semestre
+9,Taller de diseño Especial 1,3,primer semestre
+9,Actuacion Empresarial,3,primer semestre
+9,Opcional Especifica 1,3,primer semestre
+9,Semiologia,3,primer semestre
+9,Introduccion a la Investigacion,3,primer semestre
+9,Taller de Diseño Especial 2,3,segundo semestre
+9,Practica Profesional,3,segundo semestre
+9,Opcional Especifica 2,3,segundo semestre
+9,Presentacion Final,3,segundo semestre
+9,Taller de diseño estrategico,4,primer semestre
+9,Ergonomia,4,primer semestre
+9,Opcional Integral 1,4,primer semestre
+9,Teoria General del Diseño,4,primer semestre
+9,Estetica de los medios,4,primer semestre
+9,Metodologia del diseño,4,segundo semestre
+9,Marketing Empresario,4,segundo semestre
+9,Opcional Integral 2,4,segundo semestre
+9,Opcional Especifica 3,4,segundo semestre
+9,Trabajo Final,4,segundo semestre
+11,Idioma 1 (Ingles Basico),1,anual
+11,Corretaje 1 (Contexto Ocupacional),1,anual
+11,Derecho 1(Propedeutica Juridica),1,anual
+11,Diseño 1 (Logistica Disciplinar),1,anual
+11,Inmobiliario 1 (Valoracion Edilicia),1,anual
+11,Comunicacion 1 (Psicologia Social Basica),1,anual
+11,Marketing 1 (Posicionamiento),1,anual
+11,Valuacion 1 (Tecnicas Operacionales),1,anual
+11,Practica Integrada,1,anual
+11,Comunicacion 2 (Psicologia Social Aplicada),2,anual
+11,Corretaje 2 (Gestion de Negocios),2,anual
+11,Derecho 2 (Logistica Juridica),2,anual
+11,Diseño 2 (Intermediacion),2,anual
+11,Idioma 2 (Ingles Aplicado),2,anual
+11,Markenting 2 (Riesgos Inmobiliarios),2,anual
+11,Valuacion 2 (Tecnicas Procesales),2,anual
+11,Practica Integrada (j),2,anual
+11,Inmobiliario 2 (Desarrollo Urbano),2,anual
+11,Pratica Ocupacional,3,primer semestre
+11,Practica Integrada (f),3,primer semestre
+12,Comunicacion 1 (Psicologia Social Basica),1,anual
+12,Derecho 1 (Propedeutica Juridica),1,anual
+12,Diseño 1 (Valoracion Patrimonial),1,anual
+12,Gestion 1 (Contexto Ocupacional),1,anual
+12,Idioma 1 (Ingles Basico),1,anual
+12,Marketing 1 (Posicionamiento),1,anual
+12,Subasta 1 (Logistica Disciplinar),1,anual
+12,Valuacion 1 (Tecnicas Operacionales),1,anual
+12,Comunicacion 2 (Psicologia Social Aplicada),2,anual
+12,Derecho 2 (Logistica Juridica),2,anual
+12,Diseño 2 (Actuacion Creativa),2,anual
+12,Gestion 2 (Contexto Social),2,anual
+12,Idioma 1 (Ingles Aplicado),2,anual
+12,Marketing 1 (Riesgos Comerciales),2,anual
+12,Subasta 1 (Mercado Regional),2,anual
+12,Valuacion 1 (Tecnicas Procesales),2,anual
+12,Comunicacion 3 (Oratoria),3,primer semestre
+12,Derecho 3 (Porcesal),3,primer semestre
+12,Diseño 3 (Organizacion),3,primer semestre
+12,Gestion 3 (Juridica),3,primer semestre
+12,Marketing 3 (Ramate),3,primer semestre
+12,Practicas (Examen de Graduacion),3,primer semestre
+13,Analisis Matematico,1,anual
+13,Algebra y Geometria Analitica,1,anual
+13,Matematica Discreta,1,anual
+13,Sistemas y Organizaciones,1,anual
+13,Algoritmo y Estructuras de Datos,1,anual
+13,Arquitectura de Computadoras,1,anual
+13,Fisica I,1,anual
+13,Ingles I,1,anual
+13,Quimica,2,anual
+13,Analisis Matematico II,2,anual
+13,Fisica II,2,anual
+13,Analisis de Sistemas,2,anual
+13,Sintaxis y Semantica de los Lenguajes,2,anual
+13,Paradigmas de Programacion,2,anual
+13,Sistemas Operativos,2,anual
+13,Sistemas de Representacion,2,anual
+13,Probabilidades y Estadisticas,3,anual
+13,Diseño de Sistemas,3,anual
+13,Comunicaciones,3,anual
+13,Matematica Superior,3,anual
+13,Gestion de Datos,3,anual
+13,Ingenieria y Sociedad,3,anual
+13,Economia,3,anual
+13,Ingles II,3,anual
+13,Redes de Informacion,4,anual
+13,Administracion de Recursos,4,anual
+13,Investigacion Operativa,4,anual
+13,Simulacion,4,anual
+13,Ingenieria de Software,4,anual
+13,Teoria de Control,4,anual
+13,Legislacion,4,anual
+13,Proyecto Final,5,anual
+13,Inteligencia Artificial,5,anual
+13,Administracion GerencialSistemas de Gestion,5,anual
+14,Analisis Matematico I,1,anual
+14,Quimica General,1,anual
+14,Sistemas de Representacion,1,anual
+14,Informatica I,1,anual
+14,Pensamiento Sistemico,1,anual
+14,Fisica I,1,anual
+14,Algebra y Geometria Analitica,1,anual
+14,Ingenieria y Sociedad,1,anual
+14,Analisis Matematico II,2,anual
+14,Administracion General (Integradora),2,anual
+14,Probabilidad y Estadistica,2,anual
+14,Ciencia de los Materiales,2,anual
+14,Fisica II,2,anual
+14,Economia General,2,anual
+14,Informatica II,2,anual
+14,Ingles I,2,anual
+14,Costos y PresupuestosAnalisis Numerico y Calculo Avanzado,3,anual
+14,Estudio del Trabajo (Integradora),3,anual
+14,Comercializacion,3,anual
+14,Termodinamica y Maquinas Termicas,3,anual
+14,Estatica y Resistencia de Materiales,3,anual
+14,Mecanica de los Fluidos,3,anual
+14,Economia de la Empresa,3,anual
+14,Electrotecnia y Maquinas Electricas,3,anual
+14,"Seguridad, Higiene e Ingenieria AmbientalIndustriales 3 35 Legislacion",4,anual
+14,Investigacion Operativa,4,anual
+14,Procesos Industriales,4,anual
+14,Mecanica y Mecanismos,4,anual
+14,Evaluacion de Proyectos (Integradora),4,anual
+14,Planificacion y Control de la Produccion,4,anual
+14,Diseño de Producto,4,anual
+14,Ingles II,4,anual
+14,Instalaciones,4,anual
+14,Mantenimiento,5,anual
+14,Manejo de Materiales y Distribucion de Plantas,5,anual
+14,Comercio Exterior,5,anual
+14,Relaciones Industriales,5,anual
+14,Proyecto Final (Integradora),5,anual
+14,Ingenieria en Calidad,5,anual
+14,Control de Gestion,5,anual
+14,Practica Supervisada,5,anual
+15,Informatica I (Int),1,anual
+15,Algebra y Geometria Analitica,1,anual
+15,Analisis Matematico I,1,anual
+15,Ingenieria y Sociedad,1,anual
+15,Analisis Matematico II,1,anual
+15,Fisica I,1,anual
+15,Sistemas de Representacion,1,anual
+15,Informatica II,2,anual
+15,Analisis de Señales y Sistemas,2,anual
+15,Quimica General,2,anual
+15,Fisica II,2,anual
+15,Probabilidad y Estadistica,2,anual
+15,Fisica Electronica,2,anual
+15,Ingles I,2,anual
+15,Teoria de los Circuitos I,3,anual
+15,Tecnicas Digitales I,3,anual
+15,Dispositivos Electronicos,3,anual
+15,Legislacion,3,anual
+15,Electronica Aplicada,3,anual
+15,Medios de Enlace,3,anual
+15,Ingles II,3,anual
+15,Tecnicas Digitales II,4,anual
+15,Medidas Electronicas I,4,anual
+15,Teoria de los Circuitos II,4,anual
+15,Maquinas e Instalaciones Electricas,4,anual
+15,Sistemas de Comunicaciones,4,anual
+15,Electronica Aplicada II,4,anual
+15,"Seguridad, Higiene y Medio Ambiente",4,anual
+15,Tecnicas Digitales III,5,anual
+15,Medidas Electronicas II,5,anual
+15,Sistemas de Control,5,anual
+15,Electronica Aplicada III,5,anual
+15,Tecnologia Electronica,5,anual
+15,Electronica de Potencia,5,anual
+15,Organizacion Industrial,5,anual
+15,Economia,6,anual
+15,Proyecto Final,6,anual
