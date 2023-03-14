@@ -11,50 +11,50 @@ telefono varchar (50) NOT NULL,
 fecha_de_nacimiento date NOT NULL);
 
 CREATE TABLE rol(
-rolID INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
-nombre SET ('Autoridad', 'Docente', 'No docente', 'alumno', 'proveedor') NOT NULL);
+id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+rol_nombre SET ('Autoridad', 'Docente', 'No docente', 'alumno', 'proveedor') NOT NULL);
 
 CREATE TABLE facultades(
-facultadID INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
-nombre varchar (50) NOT NULL,
+id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+nombre_facultad varchar (50) NOT NULL,
 sigla varchar (50) NOT NULL,
-fecha_de_creacion date NOT NULL,
+fecha_de_creacion_facultad date NOT NULL,
 personaID INT NOT NULL,
 rolID INT NOT NULL,
 foreign key (personaID) REFERENCES personas(dni),
-foreign key (rolID) REFERENCES rol(rolID));
+foreign key (rolID) REFERENCES rol(id));
 
 CREATE TABLE carreras(
-carreraID INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
 facultadID INT NOT NULL,
-nombre varchar (50) NOT NULL,
+nombre_carrera varchar (50) NOT NULL,
 sigla varchar (50) NOT NULL,
 grado SET ('pregrado', 'grado', 'posgrado', 'diplomatura', 'cursos cortos') NOT NULL,
-fecha_de_creacion date NOT NULL,
+fecha_de_creacion_carrera date NOT NULL,
 duracion tinyint NOT NULL,
-foreign key (facultadID) REFERENCES facultades(facultadID));
+foreign key (facultadID) REFERENCES facultades(id));
 
 CREATE TABLE anio_cursado(
 anio_cursado INT NOT NULL PRIMARY KEY,
-nombre varchar (50) NOT NULL);
+nombre_anio varchar (50) NOT NULL);
 
 CREATE TABLE materias(
-materiaID INT NOT NULL PRIMARY KEY AUTO_INCREMENT ,
+id INT NOT NULL PRIMARY KEY AUTO_INCREMENT ,
 carreraID INT NOT NULL,
-nombre varchar (50) NOT NULL,
+asignatura varchar (50) NOT NULL,
 anio_cursado INT NOT NULL,
 tipo_duracion SET ('anual', 'primer semestre', 'segundo semestre') NOT NULL,
-foreign key (carreraID) REFERENCES carreras (carreraID),
+foreign key (carreraID) REFERENCES carreras (id),
 foreign key (anio_cursado) REFERENCES anio_cursado(anio_cursado));
 
 CREATE TABLE inscripciones(
-inscripcionID INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
 personaID INT NOT NULL,
 rolID INT NOT NULL,
 materiaID INT NOT NULL,
 fecha_hora_inscripcion datetime NOT NULL,
 foreign key (personaID) REFERENCES personas(dni),
-foreign key (rolID) REFERENCES rol(rolID),
-foreign key (materiaID) REFERENCES materias (materiaID));
+foreign key (rolID) REFERENCES rol(id),
+foreign key (materiaID) REFERENCES materias (id));
 
 SELECT * FROM personas;
