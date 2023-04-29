@@ -14,6 +14,25 @@ CREATE TABLE rol(
 id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
 rol_nombre SET ('Autoridad', 'Docente', 'No docente', 'alumno', 'proveedor') NOT NULL);
 
+CREATE TABLE cargos_docentes(
+id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+nombre_cargo varchar (20) NOT NULL);
+
+CREATE TABLE dedicacion_docente(
+id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+nombre_dedicacion varchar (20) NOT NULL,
+carga_horaria SMALLINT);
+
+CREATE TABLE sueldo_docente(
+id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+id_cargo INT NOT NULL,
+id_dedicacion INT NOT NULL,
+monto INT NOT NULL,
+foreign key (id_cargo) REFERENCES cargos_docentes(id),
+foreign key (id_dedicacion) REFERENCES dedicacion_docente(id));
+
+CREATE TABLE nombramiento_docente
+
 CREATE TABLE facultades(
 id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
 nombre_facultad varchar (50) NOT NULL,
