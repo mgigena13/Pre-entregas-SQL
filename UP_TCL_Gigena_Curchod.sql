@@ -35,3 +35,5 @@ savepoint partida_2;
 -- OJO con ejecutar la sentencia commit que despues no hay arreglo
 
 # COMMIT; 
+
+select * FROM inscripciones;
